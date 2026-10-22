@@ -1,0 +1,10 @@
+- Ngee Ann Poly
+- BESS Application
+- Solar PV, forecasting
+- Chroma regen. battery pack test system model 17020
+- BTH408B batt. test chamber
+- NGI battery simulator N83624
+- battery cells and packs
+
+Mou - Infineon side
+- thermal runaway and lithium plating topics
